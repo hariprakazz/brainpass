@@ -31,14 +31,16 @@ no more starting from scratch. ever.
 6. copy your context. carry it anywhere.
 
 ## built with
-- python
-- groq api (llama 3.3 70b) — free and fast
+- ai summarization engine
+- web ui — no terminal needed
+- memory vault — saves every summary with timestamp
+- deployed live at brainpass.streamlit.app
 
 ## what's coming
-- web ui so no more terminal
 - memory profiles (study mode, coding mode, career mode)
 - one click export button
 - auto summarize every few messages
+- cloud sync so memories follow you everywhere
 
 ## why i built this
 i'm a cse student who uses ai tools daily.
